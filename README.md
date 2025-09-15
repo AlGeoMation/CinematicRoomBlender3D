@@ -7,3 +7,4 @@ Realistic props and room details
 Optimized for rendering and visualization
 
 Designed for use in visualizations, cinematic scenes, or 3D portfolios, showcasing high-quality modeling and lighting techniques.
+Download the Blender file here: [https://drive.google.com/file/d/1NxT25YlrRaxE6XzAB0SXHklY3y-EdueW/view?usp=sharing]
